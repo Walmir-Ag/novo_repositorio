@@ -1,0 +1,11 @@
+{
+  "name": "branch_git",
+  "version": "1.0.0",
+  "description": "aula_git",
+  "main": "git_Aula_branch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "WAlmir",
+  "license": "ISC"
+}
